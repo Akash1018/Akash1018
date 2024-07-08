@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akashchaudhary18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashchaudhary18" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akash101811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akash101811" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akash1018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash1018" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/peace1018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="peace1018" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akashchaudhary18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashchaudhary18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akash101811" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akash101811" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akash1018" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash1018" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/peace1018" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="peace1018" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
