@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>🌱 I’m currently learning GoLang<br>💬 Ask me about Javascript, Node and FullStack Development<br>📫 How to reach me akash101811@gmail.com<br>📄 Know more about me and my experiences https://drive.google.com/file/d/1BJu7w2scHU9oj_W3QyNLqvnLxIhR2fmH/view?usp=sharing
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>💬 Ask me about Javascript, Node and FullStack Development<br>📫 How to reach me akash101811@gmail.com<br>📄 Know more about me and my experiences https://drive.google.com/file/d/1BJu7w2scHU9oj_W3QyNLqvnLxIhR2fmH/view?usp=sharing
 
 
 ## 🌐 Socials:
